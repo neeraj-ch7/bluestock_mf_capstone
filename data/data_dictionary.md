@@ -1,5 +1,6 @@
 # Data Dictionary
 
+
 ## nav_history.csv
 
 | Column Name | Data Type | Business Definition                     | Source          |
